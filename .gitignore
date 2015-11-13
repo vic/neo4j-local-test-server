@@ -90,3 +90,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+target/
+neo4j-home/
