@@ -1,3 +1,11 @@
+```text
+            _0   0_
+         (..||   ||..)
+       (...(       )...)
+      (.... (^   ^).... )
+               ~ 
+```
+
 A single jar neo4j server using an impermanent store.
 
 This server is intended for unit testing an application that relies on neo4j graphs,
@@ -13,7 +21,7 @@ Please use this only for testing applications.
 
 ```shell
 mvn clean package
-java -jar target/neo4j-local-test-server-1.0-SNAPSHOT.one-jar.jar
+java -jar target/neo4j-local-test-server-1.0-SNAPSHOT.one-jar.jar # binks ;)
 ```
 
 
